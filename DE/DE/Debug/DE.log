@@ -1,0 +1,6 @@
+﻿  源.cpp
+e:\文件\程序\ec\de\de\源.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\de\de\源.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\de\de\源.cpp(91): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\de\de\源.cpp(114): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  DE.vcxproj -> E:\文件\程序\EC\DE\Debug\DE.exe
